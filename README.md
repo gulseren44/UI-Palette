@@ -39,15 +39,18 @@ Projeyi yerel bilgisayarınızda çalıştırmak için aşağıdaki adımları t
 2. Terminalde proje kök dizinine (`ui-palette`) geçiş yapın:
    ```bash
    cd ui-palette
+   
 1.Gerekli bağımlılıkları yükleyin:   
 
-Bash
+```bash
 npm install
+````
 
 2.Projeyi lokal sunucuda başlatın:
 
-Bash
+```bash
 npm run dev
+````
 
 Tarayıcınızda http://localhost:5173/ adresine giderek uygulamayı test edin.
 
